@@ -1,0 +1,10 @@
+{
+  "TaskName": "SiB",
+  "SamplingFrequency": 125,
+  "SoftwareFilters": "n/a",
+  "EEGChannelCount": 16,
+  "EOGChannelCount": 0,
+  "EEGReference": "Left earlobe",
+  "RecordingType": "continuous",
+  "PowerLineFrequency": 50
+}
